@@ -22,7 +22,7 @@ E2. xplore Data Examine the dataset to identify patterns, distributions, and rel
 6. Evaluate Model Measure the model’s performance on the test data with relevant metrics.
 
 ## Program:
-```
+```py
 /*
 Program to  implement a Decision Tree model for tumor classification.
 Developed by: Madhan M
